@@ -8,6 +8,18 @@ An NLP-based web application that classifies customer complaints into predefined
 
 This project uses Natural Language Processing (NLP) techniques along with a trained TensorFlow/Keras model to analyze and categorize user-input complaints. The application is built with Streamlit to provide a simple and interactive interface.
 
+## 🧠 Model Capabilities
+
+This model classifies customer complaints into the following 5 categories:
+
+- Credit Reporting
+- Debt Collection
+- Mortgages and Loans
+- Credit Card Issues
+- Retail Banking
+
+The model is trained using NLP techniques including tokenization and sequence padding.
+
 ---
 
 ## 🧠 Key Features
